@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+h1{
+    display: flex;
+    color: lightpink;
+    justify-content: center;
+}
+
 .links {
     display: flex;
     justify-content: center;
@@ -42,7 +47,10 @@
 }
 =======
 h1{
+=======
+>>>>>>> 0dab1cd (Heading change)
     color: lightpink;
+    justify-content: center;
 }
 
 .links{
