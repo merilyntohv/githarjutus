@@ -1,6 +1,4 @@
-footer {
-    display: block;
-  }
+<<<<<<< HEAD
 .links {
     display: flex;
     justify-content: center;
@@ -50,5 +48,11 @@ h1{
 .links{
     color:black;
     text-decoration: none;
+<<<<<<< HEAD
 }
 >>>>>>> d85bfcb (css changes)
+=======
+    background-color: lightpink;
+    padding: 10px;
+}
+>>>>>>> d64b838 (color change)
