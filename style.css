@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .links {
     display: flex;
     justify-content: center;
@@ -39,15 +40,26 @@
     height: auto;
     border-radius: 1rem; 
 }
+<<<<<<< HEAD
 h1{
     display: flex;
     color: lightpink;
     justify-content: center;
+=======
+=======
+h1{
+    color: lightpink;
+>>>>>>> 3829c23 (css changes)
 }
 
 .links{
     color:black;
     text-decoration: none;
+<<<<<<< HEAD
     background-color: lightpink;
     padding: 10px;
 }
+=======
+}
+>>>>>>> d85bfcb (css changes)
+>>>>>>> 3829c23 (css changes)
