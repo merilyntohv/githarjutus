@@ -47,21 +47,51 @@ h1{
     border-radius: 1rem; 
 }
 =======
-h1{
+.picture h1{
 =======
 >>>>>>> 0dab1cd (Heading change)
     color: lightpink;
     justify-content: center;
 }
 
-.links{
-    color:black;
-    text-decoration: none;
-<<<<<<< HEAD
-}
->>>>>>> d85bfcb (css changes)
-=======
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+    width: 100%;
     background-color: lightpink;
-    padding: 10px;
+    gap: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 0.2rem;
 }
->>>>>>> d64b838 (color change)
+
+.links a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.links a:hover{
+    color: lightpink;
+    text-decoration: none;
+}
+
+.picture {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+}
+
+.picture h1{
+    color: pink;
+    margin: 1rem 2rem 1rem 2rem;
+}
+
+.picture img{
+    margin: 1rem 2rem 1rem 2rem;
+    width: 25%;
+    height: auto;
+    border-radius: 1rem; 
+}
