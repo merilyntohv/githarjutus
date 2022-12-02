@@ -42,3 +42,13 @@ footer {
     height: auto;
     border-radius: 1rem; 
 }
+=======
+h1{
+    color: lightpink;
+}
+
+.links{
+    color:black;
+    text-decoration: none;
+}
+>>>>>>> d85bfcb (css changes)
