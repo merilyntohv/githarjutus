@@ -1,5 +1,7 @@
 h1{
+    display: flex;
     color: lightpink;
+    justify-content: center;
 }
 
 .links{
