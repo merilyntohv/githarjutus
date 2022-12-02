@@ -73,6 +73,8 @@ h1{
 .links a:hover{
     color: lightpink;
     text-decoration: none;
+    background-color: lightpink;
+    padding: 10px;
 }
 
 .picture {
