@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+h1{
+    display: flex;
+    color: lightpink;
+    justify-content: center;
+}
+
 .links {
     display: flex;
     justify-content: center;
@@ -60,6 +65,6 @@ h1{
     padding: 10px;
 }
 =======
+<<<<<<< HEAD
 }
 >>>>>>> d85bfcb (css changes)
->>>>>>> 3829c23 (css changes)
