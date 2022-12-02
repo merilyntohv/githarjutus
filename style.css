@@ -1,6 +1,5 @@
 h1{
     display: flex;
-<<<<<<< HEAD
     color: lightpink;
     justify-content: center;
 }
@@ -46,76 +45,3 @@ h1{
     height: auto;
     border-radius: 1rem; 
 }
-<<<<<<< HEAD
-h1{
-    display: flex;
-    color: lightpink;
-    justify-content: center;
-=======
-=======
-.picture h1{
-=======
->>>>>>> 0dab1cd (Heading change)
-    color: lightpink;
-<<<<<<< HEAD
->>>>>>> 3829c23 (css changes)
-=======
-    justify-content: center;
->>>>>>> dddd88e (Heading change)
-}
-
-<<<<<<< HEAD
-.links{
-    color:black;
-    text-decoration: none;
-<<<<<<< HEAD
-=======
-.links {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 3rem;
-    width: 100%;
->>>>>>> 7e058ab (mainpage)
-    background-color: lightpink;
-    gap: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    border-radius: 0.2rem;
-}
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-}
->>>>>>> d85bfcb (css changes)
-=======
-
-.links a{
-    color: whitesmoke;
-    text-decoration: none;
-}
-
-.links a:hover{
-    color: lightpink;
-    text-decoration: none;
-}
-
-.picture {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: whitesmoke;
-}
-
-.picture h1{
-    color: pink;
-    margin: 1rem 2rem 1rem 2rem;
-}
-
-.picture img{
-    margin: 1rem 2rem 1rem 2rem;
-    width: 25%;
-    height: auto;
-    border-radius: 1rem; 
-}
->>>>>>> 7e058ab (mainpage)
