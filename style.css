@@ -45,13 +45,6 @@ h1{
     height: auto;
     border-radius: 1rem; 
 }
-=======
-.picture h1{
-=======
->>>>>>> 0dab1cd (Heading change)
-    color: lightpink;
-    justify-content: center;
-}
 
 .links {
     display: flex;
